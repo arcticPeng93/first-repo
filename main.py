@@ -1,2 +1,2 @@
 print('Hello world.')
-a = 100 + 600
+a = 200 + 600
